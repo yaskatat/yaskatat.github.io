@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my CV from [here](https://yaskatat.github.io/files/CV_Yasuka_Tateishi.pdf).
+Please find my CV [here](https://yaskatat.github.io/files/CV_Yasuka_Tateishi.pdf).
 
 Last updated: 26th April, 2024
