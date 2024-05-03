@@ -7,6 +7,10 @@ redirect_from:
   - /contact.html
 ---
 
+
+{% include base_path %}
+
+
 <br />
 
 #### Address
