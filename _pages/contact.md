@@ -9,10 +9,11 @@ author_profile: true
 
 ### Address
 
-University College London, Department of Economics <br />
-Drayton House, 30 Gordon St, London WC1H 0AN, United Kingdom
+University College London  <br /> Department of Economics <br />
+
+Drayton House  <br /> 30 Gordon St  <br /> London WC1H 0AN <br /> United Kingdom
 
 <br />
 
 ### Email
-yasuka.tateishi.21@ucl.ac.uk
+[yasuka.tateishi.21@ucl.ac.uk](mailto:yasuka.tateishi.21@ucl.ac.uk)
