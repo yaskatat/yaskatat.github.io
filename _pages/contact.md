@@ -3,7 +3,7 @@ layout: archive
 permalink: /contact/
 author_profile: true
 ---
-
+{% include base_path %}
 
 ### Address
 
