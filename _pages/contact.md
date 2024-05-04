@@ -5,8 +5,6 @@ author_profile: true
 ---
 
 
-<br />
-
 ### Address
 
 University College London  <br /> Department of Economics <br />
