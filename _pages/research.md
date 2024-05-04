@@ -3,6 +3,9 @@ layout: archive
 permalink: /research/
 author_profile: true
 ---
+
+{% include base_path %}
+
 ## Working Papers
 **When Refugees Become Natives: Intergenerational Assimilation of Palestinian Refugees in Jordan** <br/>
 <span style="color: DarkGrey">[draft available upon request]</span>
