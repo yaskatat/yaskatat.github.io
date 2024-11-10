@@ -14,9 +14,9 @@ When Refugees Become Natives: Intergenerational Assimilation of Palestinian Refu
 
 ## Works in Progress
 
-Weather Shocks and Production Outcomes of Firms in Uganda (with Ryu Matsuura and Anton Reinicke) 
+Climate Change and Service Sector Vulnerabilities: Evidence from Urban Firms in Uganda (with Ryu Matsuura and Anton Reinicke) 
 
-Japanese Multinational Enterprises in Vietnam (with Jonas Hjort, Yukiko Saito and Linda Wu)
+Job Creation and Wage Choice of Japanese Multinational Enterprises in Vietnam (with Jonas Hjort, Yukiko Saito and Linda Wu)
 
 <br/>
 
