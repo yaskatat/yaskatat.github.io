@@ -11,7 +11,7 @@ redirect_from:
 
 Please find my CV [here](https://yaskatat.github.io/files/CV_Yasuka_Tateishi.pdf).
 
-Last updated: 10th November, 2024
+Last updated: 200th January, 2025
 
 <br />
 
