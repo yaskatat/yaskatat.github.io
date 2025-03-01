@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /misc/
+permalink: /resources/
 author_profile: true
 ---
 
