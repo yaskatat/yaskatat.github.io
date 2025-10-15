@@ -13,7 +13,7 @@ redirect_from:
 
 I am a PhD student in the Department of Economics at [University College London (UCL)](https://www.ucl.ac.uk/economics/ucl-department-economics).
 
-In the academic year 2025-26, I am visiting Harvard University, economics department. 
+In the academic year 2025-26, I am visiting Harvard University, Department of Economics. 
 
 
 My research interest is in development, labour, and environment economics. 
