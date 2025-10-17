@@ -14,7 +14,7 @@ When Refugees Become Natives: Intergenerational Assimilation of Palestinian Refu
 
 ## Works in Progress
 
-Extreme Rainfall and Service Sector Vulnerabilities: Evidence from Frim Transactions in Uganda (with Ryu Matsuura and Anton Reinicke) 
+Extreme Rainfall and Service Sector Vulnerabilities: Evidence from Frim Transactions in Uganda (with Anton Reinicke) 
 
 <br/>
 Footloose Enough? Multinationals, Domestic Firms, and Job Creation in Developing Economies as Wages Rise (with Jonas Hjort, Yukiko Saito and Linda Wu)
