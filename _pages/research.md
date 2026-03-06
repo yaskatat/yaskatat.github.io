@@ -7,17 +7,18 @@ author_profile: true
 {% include base_path %}
 
 ## Working Papers
+
+Consumer Access, Flood Risk, and Firm Growth: Evidence from Supply Chain Links in Uganda (with Anton Reinicke) 
+
+<br/>
+
+Footloose Enough? Multinationals, Domestic Firms, and Job Creation in Developing Economies as Wages Rise (with Jonas Hjort, Yukiko Saito and Linda Wu)
+
+
+<br/>
+
 When Refugees Become Natives: Intergenerational Assimilation of Palestinian Refugees in Jordan <br/>
 <span style="color: DarkGrey">[draft available upon request]</span>
-
-<br/>
-
-## Works in Progress
-
-Extreme Rainfall and Service Sector Vulnerabilities: Evidence from Frim Transactions in Uganda (with Anton Reinicke) 
-
-<br/>
-Footloose Enough? Multinationals, Domestic Firms, and Job Creation in Developing Economies as Wages Rise (with Jonas Hjort, Yukiko Saito and Linda Wu)
 
 <br/>
 
