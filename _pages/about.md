@@ -28,6 +28,6 @@ My research interest is in development, labour, and environment economics.
 
 <br />
 
-<small>*How to pronounce my name:* Ya-s-ka (you don't pronounce "u" in the middle; accent is on "ya"). Feel free to call me Jessica as it sounds similar and I use it as my Starbudcks name. No worries about pronouncing my last name. </small>
+<small>*How to pronounce my name:* Ya-s-ka (you don't pronounce "u" in the middle; accent is on "ya"). Feel free to call me Jessica as it sounds similar and I use it as my Starbucks name. No worries about pronouncing my last name. </small>
 
 <br />
