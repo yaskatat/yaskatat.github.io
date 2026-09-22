@@ -8,7 +8,7 @@ author_profile: true
 
 ## Working Papers
 
-Consumer Access, Flood Risk, and Firm Growth: Evidence from Supply Chain Links in Uganda (with Anton Reinicke) <br/>
+The Cost of Agglomeration: Recurrent Flooding and Firm Dynamics in Kampala, Uganda (with Anton Reinicke) <br/>
 <span style="color: DarkGrey">[slides available upon request]</span>
 
 <br/>
