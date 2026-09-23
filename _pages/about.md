@@ -16,7 +16,7 @@ I am a PhD student in the Department of Economics at [University College London 
 In the academic year 2025-26, I am visiting Harvard University, Department of Economics. 
 
 
-My research interest is in development, labour, and environment economics. 
+My research interest is in development, urban, labour, and environment economics. 
 
 <br />
 
